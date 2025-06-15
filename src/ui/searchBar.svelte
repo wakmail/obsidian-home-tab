@@ -97,7 +97,7 @@
     }
 
     .home-tab-searchbar input{
-        width: 50%;
+        width: 75%;
         min-width: 250px;
         max-width: 700px;
         display: inline-block;
